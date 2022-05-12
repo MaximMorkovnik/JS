@@ -1,7 +1,6 @@
 <h3>JS</h3>
 
 <ol>
-<!-- <li><strong>JS</strong> -->
     <ul>
         <li><strong>1. FizzBuzz</strong><br>
             <a href="/FizzBuzz/main.js">
@@ -17,4 +16,3 @@
             </a>
         </li>
     </ul>
-<!-- </li> -->
