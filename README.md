@@ -11,4 +11,11 @@
              </a>
          <ul>
     </li>
+    <li><strong>ToSum</strong>
+        <ul>
+             <a href="/ToSum/main.js">
+                   Посчитать сумму чисел от 1 до 10.<br>
+             </a>
+         <ul>
+    </li>
 </ol>
