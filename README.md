@@ -2,19 +2,24 @@
 
 <ol>
     <ul>
-        <li><strong>1. ArrayIteration</strong><br>
+        <li><strong>1. ArrMinMax</strong><br>
+            <a href="/ArrMinMax/main.js">
+                Найдите минимальный и максимальный элемент в массиве.<br>
+            </a>
+        </li>
+        <li><strong>2. ArrayIteration</strong><br>
             <a href="/ArrayIteration/main.js">
                 Дан массив числами, например: [10, 20, 30, 50, 235, 3000].<br> 
                 Выведите на экран только те числа из массива, которые начинаются на цифру 1, 2 и 5.<br>
             </a>
         </li>
-        <li><strong>2. CountIdentic</strong><br>
+        <li><strong>3. CountIdentic</strong><br>
             <a href="/CountIdentic/main.js">
                 Напишите функцию countIdentic(arr),<br> 
                 которая возвращает количество повторяющихся элементов в массиве.<br>
             </a>
         </li>
-        <li><strong>3. FizzBuzz</strong><br>
+        <li><strong>4. FizzBuzz</strong><br>
             <a href="/FizzBuzz/main.js">
                 Напишите программу, которая выводит на экран числа от 1 до 100. <br>
                 При этом вместо чисел, кратным 3, программа должна выводить слово "Fizz",<br> 
@@ -22,14 +27,14 @@
                 то программа должна выводить слово "FizzBuzz".<br>
             </a>
         </li>
-        <li><strong>4. RemoveDuplicates</strong><br>
+        <li><strong>5. RemoveDuplicates</strong><br>
             <a href="/RemoveDuplicates/main.js">
                 Напишите функцию RemoveDuplicates(arr), которая возвращает массив,<br> 
                 в котором удалены повторяющиеся элементы из массива arr.<br>
                 (игнорируйте чувствительность к регистру).<br>
             </a>
         </li>
-        <li><strong>5. ToSum</strong><br>
+        <li><strong>6. ToSum</strong><br>
             <a href="/ToSum/main.js">
                 Посчитать сумму чисел от 1 до 10.<br>
             </a>
