@@ -10,3 +10,24 @@ for (let i = 0; i < arrMinMax.length; i++) {
 }
 
 console.log(min, max);
+
+
+
+// Вариант 2 (рекурсия)
+
+function recMin(arr, min) {
+    if (min === undefined) {
+        min = arr.pop();
+    }
+
+    if (arr.length > 0) {
+        let current = arr.pop();
+
+        min = Math.min(current, min); // при Math.max будет искать максимальное значение
+
+        return recMin(arr, min);
+    }
+    return min;
+}
+
+console.log(recMin([1000, -20, 70, 1, 6, 7, 75, 100]))
