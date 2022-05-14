@@ -27,21 +27,27 @@
                 то программа должна выводить слово "FizzBuzz".<br>
             </a>
         </li>
-        <li><strong>5. FunctionFibonacci</strong><br>
+        <li><strong>5. FunctionCamelize</strong><br>
+            <a href="/FunctionCamelize/main.js">
+                Напишите функцию camelize(str), которая преобразует строки вида "my-short-string" в "myShortString".<br>
+                То есть дефисы удаляются, а все слова после них получают заглавную букву.<br>
+            </a>
+        </li>
+        <li><strong>6. FunctionFibonacci</strong><br>
             <a href="/FunctionFibonacci/main.js">
                 Числа Фибоначчи 1 1 2 3 5 8 13 21 34 55...<br>
                 Вывести число Фибоначчи по индексу.<br>
                 Второй вариант выполнения - вывести чисела Фибоначчи от начала до заданного.<br>
             </a>
         </li>
-        <li><strong>6. RemoveDuplicates</strong><br>
+        <li><strong>7. RemoveDuplicates</strong><br>
             <a href="/RemoveDuplicates/main.js">
                 Напишите функцию RemoveDuplicates(arr), которая возвращает массив,<br> 
                 в котором удалены повторяющиеся элементы из массива arr.<br>
                 (игнорируйте чувствительность к регистру).<br>
             </a>
         </li>
-        <li><strong>7. ToSum</strong><br>
+        <li><strong>8. ToSum</strong><br>
             <a href="/ToSum/main.js">
                 Посчитать сумму чисел от 1 до 10.<br>
             </a>
