@@ -47,14 +47,21 @@
                 Второй вариант выполнения - вывести чисела Фибоначчи от начала до заданного.<br>
             </a>
         </li>
-        <li><strong>8. RemoveDuplicates</strong><br>
+        <li><strong>8. MethodReduce</strong><br>
+            <a href="/MethodReduce/main.js">
+                Дан массив с числами. Найдите сумму первых N элементов до первого нуля.<br>
+                Пример: [1, 2, 3, 0, 4, 5, 6] - суммируем первые 3 элемента, так как<br> 
+                дальше стоит элемент с числом 0, получаем 1 + 2 + 3 = 6 (reduce).<br>
+            </a>
+        </li>
+        <li><strong>9. RemoveDuplicates</strong><br>
             <a href="/RemoveDuplicates/main.js">
                 Напишите функцию RemoveDuplicates(arr), которая возвращает массив,<br> 
                 в котором удалены повторяющиеся элементы из массива arr.<br>
                 (игнорируйте чувствительность к регистру).<br>
             </a>
         </li>
-        <li><strong>9. ToSum</strong><br>
+        <li><strong>10. ToSum</strong><br>
             <a href="/ToSum/main.js">
                 Посчитать сумму чисел от 1 до 10.<br>
             </a>
