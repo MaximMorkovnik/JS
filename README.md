@@ -74,5 +74,10 @@
                 Math.abc(). Например Math.abc(x) - модуль числа x.<br>
             </a>
         </li>
+        <li><strong>12. MultiplicationTable</strong><br>
+            <a href="/MultiplicationTable/main.js">
+                Создать таблицу умножения с помощью цикла for.<br>
+            </a>
+        </li>
     </ul>
 </ol>
